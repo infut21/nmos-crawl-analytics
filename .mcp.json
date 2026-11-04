@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "nmos": {
+      "type": "http",
+      "url": "https://nmos.net/mcp"
+    }
+  }
+}
