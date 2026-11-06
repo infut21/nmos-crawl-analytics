@@ -1,7 +1,7 @@
 {
   "name": "nmos-crawl-analytics",
   "displayName": "NMOS Crawl Analytics",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Read-only crawl analytics for NMOS.NET sites: AI and search bot visits, traffic, robots.txt, and SSL health in Claude.",
   "author": {
     "name": "NMOS.NET",
@@ -11,5 +11,6 @@
   "homepage": "https://nmos.net/setup",
   "repository": "https://github.com/infut21/nmos-crawl-analytics",
   "license": "MIT",
-  "keywords": ["seo", "crawlers", "analytics", "ai-bots", "robots-txt", "ssl"]
+  "keywords": ["seo", "crawlers", "analytics", "ai-bots", "robots-txt", "ssl"],
+  "privacyPolicyUrl": "https://nmos.net/privacy"
 }
